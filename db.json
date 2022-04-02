@@ -1,0 +1,32 @@
+{
+  "profile": [
+    {
+      "nome": "Gabriela",
+      "cpf": "000.000.000-00",
+      "email": "gabi@email.com",
+      "telefone": "(00) 00000-0000",
+      "id": 1
+    },
+    {
+      "nome": "Luiz Gustavo",
+      "cpf": "000.000.000-00",
+      "email": "luiz@email.com",
+      "telefone": "(00) 0000-0000",
+      "id": 2
+    },
+    {
+      "nome": "Maria",
+      "cpf": "000.000.000-00",
+      "email": "maria@email.com",
+      "telefone": "(00) 0000-0000",
+      "id": 3
+    },
+    {
+      "nome": "João",
+      "cpf": "000.000.000-00",
+      "email": "joao@gmail.com",
+      "telefone": "(00) 00000-0000",
+      "id": 4
+    }
+  ]
+}
